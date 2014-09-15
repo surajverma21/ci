@@ -32,12 +32,12 @@
                    <div class="col-lg-3 col-xs-3">
                         <h4 class="head">Payment Plan</h4>
                         <div class="payment_plan clearfix">
-                          <img src="image/paypal.png">
-                          <img src="image/master-card.png">
+                          <img src="<?php echo base_url(); ?>assets/image/paypal.png">
+                          <img src="<?php echo base_url(); ?>assets/image/master-card.png">
                         </div>
                         <div class="payment_plan clearfix">
-                             <img src="image/visa-card.png">
-                             <img src="image/maestro.png">
+                             <img src="<?php echo base_url(); ?>assets/image/visa-card.png">
+                             <img src="<?php echo base_url(); ?>assets/image/maestro.png">
                         </div>
                         
                    </div>

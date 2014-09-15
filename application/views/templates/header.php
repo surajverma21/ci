@@ -25,7 +25,7 @@
                          <span>Den</span>
                     </div>
                     <div class="logo col-lg-12 col-xs-12">
-                         <a href="#"><img src="image/logo.png" alt="Logo"></a>
+                         <a href="#"><img src="<?php echo base_url(); ?>assets/image/logo.png" alt="Logo"></a>
                     </div>
 
                </div>
